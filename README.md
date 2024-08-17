@@ -1,2 +1,2 @@
 # sportz_viz
-Professional sports visualizations
+Visualizations for professional sports teams
